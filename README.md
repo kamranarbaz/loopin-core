@@ -1,6 +1,6 @@
 # LoopIn
 
-**AI-Assisted Team Communication & Knowledge Management Platform**
+**Team Communication & Knowledge Management Platform**
 
 ---
 
@@ -92,4 +92,5 @@ Dashboards & Retrieval Layer
 * No real patient or client data used
 * All workflows and datasets are fully simulated
 * Designed with healthcare data safety principles
+
 
