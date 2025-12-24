@@ -1,9 +1,3 @@
-﻿# loopin-core
-Below is a **clean, one-page portfolio case study** for **LoopIn**, written to work equally well for **SWE, Data, and Healthcare Operations** reviewers.
-You can use this on **Notion, GitHub Pages, or a personal portfolio site**.
-
----
-
 # LoopIn
 
 **AI-Assisted Team Communication & Knowledge Management Platform**
@@ -98,14 +92,4 @@ Dashboards & Retrieval Layer
 * No real patient or client data used
 * All workflows and datasets are fully simulated
 * Designed with healthcare data safety principles
-
----
-
-## What I Learned
-
-* Designing scalable REST APIs for operational workflows
-* Applying LLMs to real-world knowledge management problems
-* Balancing automation with compliance and audit requirements
-* Translating operational pain points into technical solutions
-
 
