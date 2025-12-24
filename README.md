@@ -109,5 +109,3 @@ Dashboards & Retrieval Layer
 * Translating operational pain points into technical solutions
 
 
-Just say the word 🚀
-
